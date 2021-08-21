@@ -1,4 +1,4 @@
-# Stack_Runner
+# Stick_Runner
 Udemy course project. Hypercasual game with google ads.
 # Gameplay Video
 
